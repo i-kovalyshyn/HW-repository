@@ -1,0 +1,19 @@
+HomeWork description
+_____________________________________________________________________________
+1) created git-hub repository // https://github.com/i-kovalyshyn/HW-repository.git ;
+2) git init  // create local repository;
+3) git remote add origin https://github.com/i-kovalyshyn/HW-repository.git //connect to remote repository;
+4) touch hw.txt// create txt file on local pc;
+5) git add hw.txt // adding txt file to git repository/ready for commit;
+6) git commit -m "adding hw txt file"//added marker with description/commit trackekd file to versioned history;
+7) git push -u origin master // send and update local repository to remote re...;
+8) git branch  first // create the  new branch "first";
+9) git checkout first // switch to the  new branch "first";
+10)touch botton.html //create html file in the branch "first" on the local pc;
+11)git add botton // see command above;
+12)git commit -m // see command above;
+13)git push origin first //the same as above;
+14) git merge first // merge branch "first" to/with branch "master";
+15)git branche -d first // delete branch "first"
+---------------------------
+END
